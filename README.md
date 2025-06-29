@@ -6,7 +6,7 @@ A full-stack web application for managing your daily tasks efficiently. This pro
 
 ### Frontend:
 - React.js
-- Tailwind CSS or Bootstrap (your choice)
+- Tailwind CSS 
 - Axios
 
 ### Backend:
